@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    border-radius: 10px 10px 0 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+.logo img {
+    height: 50px;
+    width: auto;
+}
+
+.cart img {
+    height: 30px;
+    width: auto;
+}
+
+.cart {
+    position: relative;
+}
+
+.logo, .cart:hover{
+    cursor: pointer;
+}
+
+.divider {
+    width: 1600px;
+    height: 1px;
+    background-color: #ccc;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}

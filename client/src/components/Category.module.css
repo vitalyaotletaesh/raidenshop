@@ -1,0 +1,35 @@
+.category {
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: #0051a8;
+    padding: 10px 0;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.category:hover {
+    background-color: #00285c;
+}
+
+.active {
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: #93abc4;
+    padding: 10px 0;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+}

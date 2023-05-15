@@ -1,0 +1,17 @@
+.items_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 -20px;
+}
+
+.category_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 -20px;
+    box-sizing: border-box;
+}
+

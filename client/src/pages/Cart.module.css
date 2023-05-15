@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+}
+
+.order_btn {
+    text-align: center;
+}
+
+.button {
+    background-color: #f15b24;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+.button:hover {
+    background-color: #e0491d;
+}
